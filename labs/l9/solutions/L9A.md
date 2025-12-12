@@ -9,3 +9,8 @@
 <br></br>
 ## Step 4: Add a respond to webhook node
 ![Alt text](respond_to_webhook.png)
+<br></br>
+## Step 5: Testing the workflow results
+![Alt text](no_parameter_event.png)
+<br></br>
+![Alt text](parameter_event.png)
