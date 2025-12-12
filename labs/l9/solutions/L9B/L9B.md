@@ -10,3 +10,5 @@
 ## Step 4: Add a respond to webhook node
 ![Alt text](corrected_JSON.png)
 <br></br>
+## Step 5: Test workflow
+![Alt text](Quote_result.png)
