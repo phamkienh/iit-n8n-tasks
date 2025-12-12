@@ -7,3 +7,6 @@
 <br></br>
 ![Alt text](http_request.png)
 <br></br>
+## Step 4: Add a respond to webhook node
+![Alt text](JSON_node.png)
+<br></br>
