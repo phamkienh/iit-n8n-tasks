@@ -5,3 +5,8 @@
 ![Alt text](L10A_HTTP_request_1.png)
 <br></br>
 ![Alt text](L10A_HTTP_request_2.png)
+<br></br>
+## Step 3: Respond to webhook
+![Alt text](respondtowebhook.png)
+<br></br>
+## Step 4: Successful test call
