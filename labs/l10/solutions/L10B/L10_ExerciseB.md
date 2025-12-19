@@ -9,3 +9,5 @@
 <br></br>
 ![Alt text](Groq_body.png)
 <br></br>
+## Step 4: Successful execution result
+![Alt text](execution-result.png)
